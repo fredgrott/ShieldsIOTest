@@ -1,0 +1,5 @@
+![Github followers](https://img.shields.io/github/followers/shareme.svg?style=social&label=Follow)
+![github forks](https://img.shields.io/github/forks/ShieldsIOTest/shareme.svg?style=social&label=Fork)
+![gtihub stars](https://img.shields.io/github/stars/ShieldsIOTest/shareme.svg?style=social&label=Star)
+![github watch](https:/img.shields.io/github/wacthers/ShieldsIOTest/shareme.svg?style=social&label=Watch)
+![github issues](https://img.shields.io/github/issues/ShiledsIOtest/shareme.svg)
